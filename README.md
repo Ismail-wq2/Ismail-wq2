@@ -5,13 +5,13 @@
 
 ---
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 Actualmente estoy cursando un ciclo formativo de **DAW**. Me gusta bastante la *informática*, me apasiona programar y tambien me gusta mucho trabajar en la parte del servidor. 
 Anteriormente curse un ciclo formativo de Sistemas Microinformáticos y Redes (SMR).
 Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales como `git status` o `ls -la` desde la terminal.
 
 ---
-## Tecnologías y herramientas
+## ⚙️ Tecnologías y herramientas
 
 ![JAVASCRIPT](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript)
 ![HTML5](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML5)
@@ -29,7 +29,7 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
 * Uso de Git y GitHub para gestionar mis proyectos.
   
 ---
-## Plan de Aprendizaje y Objetivos:
+## 🏅 Plan de Aprendizaje y Objetivos:
 1. Mejorar mis conocimientos de **HTML, CSS y Python**.
 2. Seguir aprendiendo **Programación Orientada a Objetos**.
 3. Aprender a utilizar **Git y GitHub** para gestionar mis proyectos.
@@ -37,7 +37,7 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
 
 
 ---
-## Contacto y Redes
+## 🛜 Contacto y Redes
 Correo electrónico: ihaml~~az337@g...~~
 
 ![Static Badge](https://img.shields.io/badge/IsmaDev-pink?style=social&logo=Instagram)
