@@ -11,8 +11,11 @@ Anteriormente curse un ciclo formativo de Sistemas Microinformáticos y Redes (S
 Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales como `git status` o `ls -la` desde la terminal.
 
 ---
+## Tecnologías y herramientas
 
-![JAVA](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript)
+![JAVASCRIPT](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript)
+![HTML5](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML5)
+![VirtualBox](https://img.shields.io/badge/Virtualbox-grey?style=for-the-badge&logo=virtualbox)
 
 
 ### Mis áreas de interés son:
