@@ -16,6 +16,9 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
 ![JAVASCRIPT](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript)
 ![HTML5](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML5)
 ![VirtualBox](https://img.shields.io/badge/Virtualbox-grey?style=for-the-badge&logo=virtualbox)
+![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=CSS)
+![GIT](https://img.shields.io/badge/GIT-grown?style=for-the-badge&logo=GIT)
+![GITHUB](https://img.shields.io/badge/GitHub-yellow?style=for-the-badge&logo=Github)
 
 
 ### Mis áreas de interés son:
