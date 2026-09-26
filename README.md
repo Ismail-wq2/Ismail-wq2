@@ -11,6 +11,7 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
 ---
 ## Contacto y Redes
 Correo electrónico: ihaml~~az337@g...~~
+
 ![Static Badge](https://img.shields.io/badge/IsmaDev-pink?style=social&logo=Instagram)
 
 <!--
