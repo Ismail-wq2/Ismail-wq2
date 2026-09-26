@@ -36,9 +36,13 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
 4. Desplegar mi primera aplicación **Fullstack** en producción.
 ### Metas Ciclo DAW:
 -[x] Programación basica Python.
+
 -[x] Conocimientos básicos HTML5.
+
 -[x] Configuración de maquinas virtuales.
+
 -[] Realización Proyecto final de curso.
+
 -[] Conocimientos PHP.
 
 ---
