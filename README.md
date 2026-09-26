@@ -19,6 +19,7 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
 ![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=CSS)
 ![GIT](https://img.shields.io/badge/GIT-grown?style=for-the-badge&logo=GIT)
 ![GITHUB](https://img.shields.io/badge/GitHub-yellow?style=for-the-badge&logo=Github)
+![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=Python)
 
 
 ### Mis áreas de interés son:
