@@ -6,8 +6,8 @@
 ## Sobre mí
 Actualmente estoy cursando un ciclo formativo de **DAW**. Me gusta bastante la *informática*, me apasiona programar y tambien me gusta mucho trabajar en la parte del servidor. 
 Anteriormente curse un ciclo formativo de Sistemas Microinformáticos y Redes (SMR).
-
 Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales como `git status` o `ls -la` desde la terminal.
+
 ---
 ## Contacto y Redes
 Correo electrónico: ihaml~~az337@g...~~
