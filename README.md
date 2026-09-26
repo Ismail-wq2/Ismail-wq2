@@ -11,6 +11,10 @@ Anteriormente curse un ciclo formativo de Sistemas Microinformáticos y Redes (S
 Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales como `git status` o `ls -la` desde la terminal.
 
 ---
+
+![JAVA](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript)
+
+
 ### Mis áreas de interés son:
 * Desarrollo web con HTML y CSS.
 * Programación con Python y Programación Orientada a Objetos.
