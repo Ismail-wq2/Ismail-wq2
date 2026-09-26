@@ -11,7 +11,7 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
 ---
 ## Contacto y Redes
 Correo electrónico: ihaml~~az337@g...~~
-![TIKTOK](<img width="920" height="529" alt="image" src="https://github.com/user-attachments/assets/e167af0c-7f79-435f-86eb-815159358723" />)
+![TIKTOK](<img width="920" height="529" alt="image" src="https://github.com/user-attachments/assets/e167af0c-7f79-435f-86eb-815159358723" width="50" />)
 <!--
 **Ismail-wq2/Ismail-wq2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
