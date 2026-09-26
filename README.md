@@ -2,11 +2,14 @@
 # Hola, mi nombre es Ismail Hammouch 👋
 ### Estudiante de Desarrollo de Aplicaciones Web (DAW).
 > "El ego es el asesino de un equipo" – Patrick Lencioni
+
 ---
+
 ## Sobre mí
 Actualmente estoy cursando un ciclo formativo de **DAW**. Me gusta bastante la *informática*, me apasiona programar y tambien me gusta mucho trabajar en la parte del servidor. 
 Anteriormente curse un ciclo formativo de Sistemas Microinformáticos y Redes (SMR).
 Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales como `git status` o `ls -la` desde la terminal.
+
 ---
 ### Mis áreas de interés son:
 * Desarrollo web con HTML y CSS.
