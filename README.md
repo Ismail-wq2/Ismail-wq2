@@ -26,6 +26,14 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
 * Programación con Python y Programación Orientada a Objetos.
 * Creación de proyectos y ejercicios para seguir mejorando mis habilidades.
 * Uso de Git y GitHub para gestionar mis proyectos.
+  
+---
+## Plan de Aprendizaje y Objetivos:
+1. Mejorar mis conocimientos de **HTML, CSS y Python**.
+2. Seguir aprendiendo **Programación Orientada a Objetos**.
+3. Aprender a utilizar **Git y GitHub** para gestionar mis proyectos.
+4. Desplegar mi primera aplicación **Fullstack** en producción.
+
 
 ---
 ## Contacto y Redes
