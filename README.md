@@ -37,13 +37,13 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
 ### Metas Ciclo DAW:
 -[x] Programación basica Python.
 
--[x] Conocimientos básicos HTML5.
+- [x] Conocimientos básicos HTML5.
 
--[x] Configuración de maquinas virtuales.
+- [x] Configuración de maquinas virtuales.
 
--[] Realización Proyecto final de curso.
+- [ ] Realización Proyecto final de curso.
 
--[] Conocimientos PHP.
+- [ ] Conocimientos PHP.
 
 ---
 ## 🛜 Contacto y Redes
