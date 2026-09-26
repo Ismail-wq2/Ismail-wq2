@@ -14,6 +14,7 @@ Correo electrónico: ihaml~~az337@g...~~
 
 ![Static Badge](https://img.shields.io/badge/IsmaDev-pink?style=social&logo=Instagram)
 ![Static Badge](https://img.shields.io/badge/IsmaDev-red?style=social&logo=TikTok)
+![Static Badge](https://img.shields.io/badge/IsmaDev-black?style=social&logo=X)
 
 <!--
 **Ismail-wq2/Ismail-wq2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
