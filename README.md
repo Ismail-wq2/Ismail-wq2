@@ -43,7 +43,7 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
 
 - [ ] Realización Proyecto final de curso.
 
-- [ ] Conocimientos PHP.
+- [ ] Practicas Laborales del Curso.
 
 ---
 ## 🛜 Contacto y Redes
