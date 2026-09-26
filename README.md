@@ -1,6 +1,7 @@
 <img src="https://github.com/Ismail-wq2/Ismail-wq2/blob/main/github.png" alt="Mi foto" width="50"> </img> 
 # Hola, mi nombre es Ismail Hammouch 👋
 ### Estudiante de Desarrollo de Aplicaciones Web (DAW).
+> "El ego es el asesino de un equipo" – Patrick Lencioni
 ---
 ## Sobre mí
 Actualmente estoy cursando un ciclo formativo de **DAW**. Me gusta bastante la *informática*, me apasiona programar y tambien me gusta mucho trabajar en la parte del servidor. 
