@@ -1,4 +1,4 @@
-<img src="https://github.com/Ismail-wq2/Ismail-wq2/blob/main/github.png" alt="Mi foto" width="50"> </img> 
+<img src="https://github.com/Ismail-wq2/Ismail-wq2/blob/main/ism.png" alt="Mi foto" width="50"> </img> 
 # Hola, mi nombre es Ismail Hammouch 👋
 ### Estudiante de Desarrollo de Aplicaciones Web (DAW).
 > "El ego es el asesino de un equipo" – Patrick Lencioni
