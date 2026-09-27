@@ -45,7 +45,7 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
 
 - [ ] Practicas Laborales del Curso.
 ---
-## Proyectos:
+## 🚀 Proyectos:
 
 | Proyecto | Tecnologías | Estado |
 | :--- | :--- | :---: |
