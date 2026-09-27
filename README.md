@@ -54,7 +54,7 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
 
 
 ---
-## SCRIPT CODIGO:
+## 🪪 Script Codigo:
 
 
 ```javascript
