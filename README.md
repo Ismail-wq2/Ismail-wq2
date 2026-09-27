@@ -44,6 +44,17 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
 - [ ] Realización Proyecto final de curso.
 
 - [ ] Practicas Laborales del Curso.
+---
+## Proyectos:
+
+| Proyecto | Tecnologías | Estado |
+| :--- | :--- | :---: |
+| **Gestor de Tareas** | JavaScript, LocalStorage | Completado |
+| **Portfolio Personal** | HTML5, CSS3, JS | Planificado |
+
+
+
+
 
 ---
 ## 🛜 Contacto y Redes
