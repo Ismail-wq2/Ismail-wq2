@@ -53,7 +53,19 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
 | **Portfolio Personal** | HTML5, CSS3, JS | Planificado |
 
 
+---
+## SCRIPT CODIGO:
 
+
+```javascript
+    //Reconocimiento de numeros con mas de 2 digitos.
+    texto = "Ninguno mayor que 10.";
+    let numero = prompt("Introduce 3 numeros y separalos por ,");
+    separacion = numero.split(",");
+    if (separacion <= 10){
+        texto = "Alguno mayor que 10.";
+    }
+```
 
 
 ---
