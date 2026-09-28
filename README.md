@@ -62,7 +62,7 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
     texto = "Ninguno mayor que 10.";
     let numero = prompt("Introduce 3 numeros y separalos por ,");
     separacion = numero.split(",");
-    if (separacion <= 10){
+    if (separacion > 10){
         texto = "Alguno mayor que 10.";
     }
 ```
