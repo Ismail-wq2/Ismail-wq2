@@ -48,7 +48,7 @@ Para trabajar en el aula utilizo `Ubuntu Linux`, ejecutando comandos habituales 
 ## 🚀 Proyectos:
 
 | Proyecto | Tecnologías | Estado |
-| :--- | :--- | :---: |
+| :--- | :---: | ---: |
 | **Gestor de Tareas** | JavaScript, LocalStorage | Completado |
 | **Portfolio Personal** | HTML5, CSS3, JS | Planificado |
 
